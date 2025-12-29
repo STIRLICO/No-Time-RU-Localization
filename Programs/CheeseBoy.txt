@@ -1,0 +1,112 @@
+//CHEESE BOY V0.1
+
+x = 10
+y = 10
+bgcolor 1,5,1
+clear
+
+//bgcolor 1,1,100
+//bgcolor 255,1,1,x,y
+print "Press wasd to start..."
+//declare drawguy
+drawguy = function()
+ 
+bgcolor 255,225,1,x-1,y+3
+bgcolor 255,225,1,x,y+3
+bgcolor 255,225,1,x+1,y+3
+
+bgcolor 255,225,1,x-2 ,y+2
+bgcolor 255,225,1,x-1,y+2
+bgcolor 255,225,1,x  ,y+2
+//bgcolor 255,225,1,x+1,y+2
+bgcolor 255,225,1,x+2,y+2
+
+bgcolor 255,225,1,x+2,y+1
+bgcolor 255,225,1,x+1,y+1
+bgcolor 255,225,1,x  ,y+1
+bgcolor 255,225,1,x-1,y+1
+bgcolor 255,225,1,x-2,y+1
+
+bgcolor 255,225,1,x-3,y
+bgcolor 255,225,1,x-2,y
+bgcolor 255,225,1,x-1,y
+bgcolor 255,225,1,x  ,y
+bgcolor 255,225,1,x+1,y
+bgcolor 255,225,1,x+2,y
+bgcolor 255,225,1,x+3,y
+
+bgcolor 255,225,1,x-3,y -1
+bgcolor 255,225,1,x-2,y -1
+bgcolor 255,225,1,x-1,y -1
+bgcolor 255,225,1,x,y -1
+bgcolor 255,225,1,x+1,y -1
+bgcolor 255,225,1,x+2,y -1 
+bgcolor 255,225,1,x+3,y -1
+
+////
+
+bgcolor 255,225,1,x-2 ,y-2
+bgcolor 255,225,1,x-1,y-2
+bgcolor 255,225,1,x,y-2
+bgcolor 255,225,1,x+1,y-2
+bgcolor 255,225,1,x+2,y-2
+
+bgcolor 255,225,1,x-2  ,y-3
+bgcolor 255,225,1,x-1,y-3
+//bgcolor 255,225,1,x,y-3
+//bgcolor 255,225,1,x+1,y-3
+//bgcolor 255,225,1,x+2,y-3
+
+bgcolor 255,225,1,x,y-4
+bgcolor 255,225,1,x+1,y-4
+//bgcolor 255,225,1,x-1,y-4
+ 
+end function
+
+s = "e"
+while s != "x"
+s = readkey
+clear
+
+if s == "a" then
+x = x -5
+end if
+if s == "d" then
+x = x +5
+end if
+if s == "w" then
+y = y -5
+end if
+if s == "s" then
+y = y +5
+end if
+
+bgcolor 1,1,100
+//call drawguy
+drawguy
+
+//print ": "+s
+end while
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

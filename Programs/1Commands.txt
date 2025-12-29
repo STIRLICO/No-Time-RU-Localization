@@ -1,0 +1,24 @@
+// Version 04 11 1984
+// Spits out all possible diagnostics for the time travel car
+cardiag
+//
+//Executes the inbuild timegraph program which displays the time stream in its raw form
+//This way you can predict, what dates you can dial into the computer
+timegraph
+//Spits out 0 if false and 1 if true
+cantravel 2014
+
+//Get Time commands
+gethour
+getminute
+getyear
+getmonth 
+getday
+
+//Now comes the time override command, has to be run from startup.eee, can only be one line in the code for it to be read by the chip
+// time override command has to be run from the car, have to make a time chip blueprint, these two 
+//following commands wouldn't be able to be used otherwise. Check the timegraph on your plc to pin point a settable date! 
+//I need to craft an adapter for the startup HVD first so I can insert it into the car. Otherwise the following thing wont work.
+overridedate 122500011200 
+//use setlabel "" on the HVD disk to name the custom time chip!
+//To set a date, mmddyyyyhhmm or -mmddyyyyhhmm for BC

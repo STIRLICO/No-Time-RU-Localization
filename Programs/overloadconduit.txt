@@ -1,0 +1,8 @@
+//Some conduit systems, hydraulic or electric or otherwise on Pine Island can be also accessed via injection
+//Inject this code into the hacked port if you have a trap to be overloaded to take out enemies
+
+overloadconduit
+//blows the conduit
+wait 2
+breakline
+print "end of program"

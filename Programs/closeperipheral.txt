@@ -1,0 +1,8 @@
+//Most electric door systems on Pine Island can be also accessed via injection
+//Inject this code into the hacked port if you have an electric gate to be opened
+
+closeperipheral 
+//will lock the gate/ door system again
+wait 2
+breakline
+print "end of program"
