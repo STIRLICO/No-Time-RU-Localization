@@ -3,10 +3,10 @@
 * Файлы вне папок ✅
 * Astronomy ✅
 * BookStand ❌
-* Books ❌
+* Books 🕒
 * Comic ✅
 * Computer ❌
-* Dialog ❌
+* Dialog ✅ Вероятно требуется редакция
 * Interaction ✅
 * Intro ✅
 * Npc ✅
