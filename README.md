@@ -5,6 +5,7 @@
 * Erathor
 * Kingston Myles
 
+Состояние перевода на момент 31.12.25
 
 * Файлы вне папок ✅
 * Astronomy ✅
