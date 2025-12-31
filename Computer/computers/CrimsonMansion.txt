@@ -1,2 +1,2 @@
 EntryLogs.txt
-Mailbox (1 Message)
+Почтовый ящик (1 сообщение)

@@ -1,5 +1,5 @@
-STATUS OF APE HEAD COLONIALIZATION
-LAST BUILDER BOT FINISHED WORK...
-2054 MAR 12
-PLANET COUNT 7962624
-REPLICATORS - STANDBY MODE
+СТАТУС КОЛОНИЗАЦИИ «ГОЛОВА ОБЕЗЬЯНЫ»
+ПОСЛЕДНИЙ СТРОИТЕЛЬНЫЙ БОТ ЗАВЕРШИЛ РАБОТУ...
+12 МАРТА 2054
+СЧЁТЧИК ПЛАНЕТ: 7 962 624
+РЕПЛИКАТОРЫ - РЕЖИМ ОЖИДАНИЯ

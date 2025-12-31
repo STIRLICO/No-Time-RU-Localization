@@ -1,1 +1,1 @@
-Pressure: Stable -b-Temperature: 300°F-b-Process: Running
+Давление: Стабильное -b-Температура: 300°F-b-Состояние: Работает

@@ -1,6 +1,6 @@
-AGENT MIM - DUUTU
-AGENT 01 - DUUTU STANDBY
-AGENT 02 - DUUTU STANDBY
-AGENT 03 - DUUTU STANDBY
-AGENT 04 - DUUTU STANDBY
-AGENT PC - DUUTU STANDBY
+АГЕНТ МИМ - ДУУТУ
+АГЕНТ 01 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ
+АГЕНТ 02 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ
+АГЕНТ 03 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ
+АГЕНТ 04 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ
+АГЕНТ PC - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ

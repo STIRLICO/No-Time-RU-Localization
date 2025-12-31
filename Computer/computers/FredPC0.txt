@@ -1,8 +1,8 @@
-Data -b-
+Данные -b-
 -b-
-IEGNE-b-
-RUDUG-b-
-BLECH-b-
-UGLUG-b-
-KUGLU-b-
-NUCKY
+ИЕГНЕ-b-
+РУДУГ-b-
+БЛЕХ-b-
+УГЛУГ-b-
+КУГЛУ-b-
+НАККИ

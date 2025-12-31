@@ -1,7 +1,7 @@
-AGENT MIM - DUUTU-b-
-AGENT 01 - DUUTU STANDBY-b-
-AGENT 02 - DUUTU STANDBY-b-
-AGENT 03 - DUUTU STANDBY-b-
-AGENT 04 - DUUTU STANDBY-b-
-AGENT PC - EARTH - WAIT FOR FURTHER INSTRUCTIONS-b-
-[DETAIL: EARTH, PINE CITY, CAFE SKYLIGHT, June 5th 2055]
+АГЕНТ МИМ - ДУУТУ-b-
+АГЕНТ 01 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ-b-
+АГЕНТ 02 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ-b-
+АГЕНТ 03 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ-b-
+АГЕНТ 04 - ДУУТУ В РЕЖИМЕ ОЖИДАНИЯ-b-
+АГЕНТ PC - ЗЕМЛЯ - ОЖИДАЙТЕ ДАЛЬНЕЙШИХ ИНСТРУКЦИЙ-b-
+[ДЕТАЛИ: ЗЕМЛЯ, ПАЙН-СИТИ, КАФЕ «СКАЙЛАЙТ», 5 ИЮНЯ 2055]

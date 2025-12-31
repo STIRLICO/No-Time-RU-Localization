@@ -1,2 +1,2 @@
->>CORE SHUTDOWN
->>OPEN PRISON LOCKS
+>>ОТКЛЮЧЕНИЕ ЯДРА
+>>ОТКРЫТЬ ЗАМКИ ТЮРЬМЫ

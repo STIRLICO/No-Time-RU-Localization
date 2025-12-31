@@ -1,3 +1,3 @@
-Open Door Lock
-Open Silo Door
+Открыть дверной замок
+Открыть дверь бункера
 Ringcontrol.eee

@@ -1,1 +1,1 @@
-This is an entry log of system passwords. -b- ------------------------------ -b- -b- Pass Door: abcnougotmypass124 -b- Vending Machine: stalebread2 -b- Elevator: crabis2coco
+Это журнал ввода системных паролей. -b- ------------------------------ -b- -b- Пароль на дверь: abcnougotmypass124 -b- Торговый автомат: stalebread2 -b- Лифт: crabis2coco
