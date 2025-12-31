@@ -1,34 +1,34 @@
-This is a log of my research on the pet capsule.
+Это отчет о моих исследованиях капсулы для домашних животных.
 
---Note to future self--
-Perhaps, had I not delved so much 
-into time travel, maybe then I would have been able to invest 
-more time into this project.
+-- Заметка для будущего "я сам"--
+Возможно, если бы я не так сильно увлекался
+путешествиями во времени, то, возможно, смог бы уделить
+этому проекту больше времени.
 
-I need to stuff that hole in the wall, coco crabs keep pouring through!
+Мне нужно заделать эту дыру в стене, кокосовые крабы так и сыплются наружу!
 
---The idea and technicalities--
-The abstract idea was simple, have a hand held device which could hold
-any wild animal and make it tame as long as you take good care with it.
+-- Идея и технические аспекты--
+Абстрактная идея была проста: создать ручное устройство, которое могло бы удержать
+любое дикое животное и приручить его, если за ним хорошо ухаживать.
 
-The device should be no bigger than a tennis ball, the device inside, together with the
-magnetometer, shrinks matter into tiny form. I had done work on such matter in the past.
+Устройство должно быть не больше теннисного мяча, находиться внутри него вместе с
+магнитометр, сжимающий материю до мельчайших размеров. В прошлом я уже работал над подобным материалом.
 
-I had only pieces of work left from the dimension case project, which I sadly
-lost years ago. It worked similar but on a bigger scope, with more items!
+У меня остались только фрагменты работы над проектом dimension case, который, к сожалению, я
+потерял много лет назад. Он работал аналогично, но в большем масштабе и с большим количеством элементов!
 
---Usage--
-The device works in such a way, that only tame or weakened animals would allow themselves
-to be captured. [Below three hearts on the animal strength index]
+--Использование--
+Устройство работает таким образом, что только ручные или ослабленные животные позволяют поймать себя
+. [Ниже три сердечка на индексе силы животного]
 
-After throwing the device at the target, the subject would be enveloped into the
-dimension which contains a friendly habitat for the animal, however letting it out
-every now and again and feeding it will help it to keep a good spirit.
+После попадания устройства в цель субъект попадает в
+измерение, которое содержит благоприятную среду обитания для животного, однако при этом выпускает его наружу
+время от времени кормите его и это поможет ему сохранять хорошее настроение.
 
-If the animal was captured, throw the ball to let it out, or interact with it
-to make it return into the capsule.
+Если животное было поймано, бросьте мяч, чтобы выпустить его, или пообщайтесь с ним
+, чтобы заставить его вернуться в капсулу.
 
---Afterthoughts--
-Maybe one day I will be able to fulfill my dreams and time travel 
-into the past capturing baby mammoths!
-Alas that day may never come, but who knows.
+--Запоздалые размышления--
+Может быть, однажды я смогу осуществить свои мечты и отправиться в путешествие
+во времени в прошлое, чтобы поймать детенышей мамонта!
+Увы, этот день может никогда не наступить, но кто знает.

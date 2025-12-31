@@ -1,2 +1,2 @@
-//If on the same spacial plane, your car will use it's emergency energy crank to teleport to you
+// Если вы находитесь в той же пространственной плоскости, ваш автомобиль использует свой аварийный энергетический рычаг для телепортации к вам
 ReturnTimeCar

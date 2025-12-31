@@ -1,9 +1,9 @@
-//This shows the basic functions of 
-//mini script
+//Здесь показаны основные функции 
+//мини-скрипта
 
-// you can also insert an #include command can insert a file to be compiled along with the rest of the code
-// an example would be #include filename.eee
-// the code snippet is placed and compiled in the main program where the #include line is located
+// вы также можете вставить команду #include, которая позволяет вставить файл, который будет скомпилирован вместе с остальным кодом
+// примером может служить #include filename.eee
+// фрагмент кода помещается и компилируется в основной программе, где находится строка #include
 
 print "hello world!"
 wait 2
@@ -38,9 +38,9 @@ clear
 print "Shall I reboot the PLC? Y/N"
 
 yes = readline
-//readline waits for an input line entered
-//readkey waits for an input button pressed
-//getkey only checks if a key has been pressed and does not wait
+//readline ожидает ввода строки ввода
+//readkey ожидает нажатия кнопки ввода
+//getkey только проверяет, была ли нажата клавиша, и не ожидает
 
 print "you said: "+yes
 

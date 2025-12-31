@@ -1,8 +1,8 @@
-//Most electric door systems on Pine Island can be also accessed via injection
-//Inject this code into the hacked port if you have an electric gate to be opened
+//К большинству электрических дверных систем на Пайн-Айленде также можно получить доступ с помощью инъекции
+//Введите этот код во взломанный порт, если вам нужно открыть электрические ворота
 
 closeperipheral 
-//will lock the gate/ door system again
+//снова заблокирует систему ворот/дверей
 wait 2
 breakline
 print "end of program"

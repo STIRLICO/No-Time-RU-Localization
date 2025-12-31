@@ -1,2 +1,2 @@
-//Override Core Control
+//Переопределение основного управления
 SetFactionMimCore

@@ -1,24 +1,24 @@
-// Version 04 11 1984
-// Spits out all possible diagnostics for the time travel car
+// Версия 04 11 1984
+// Выдает все возможные диагностические данные для машины времени
 cardiag
 //
-//Executes the inbuild timegraph program which displays the time stream in its raw form
-//This way you can predict, what dates you can dial into the computer
+//Запускает встроенную программу timegraph, которая отображает временной поток в необработанном виде
+//Таким образом, вы можете предсказать, какие даты вы сможете ввести в компьютер
 timegraph
-//Spits out 0 if false and 1 if true
+//Выдает 0 в случае false и 1 в случае true
 cantravel 2014
 
-//Get Time commands
+//Получить временные команды
 gethour
 getminute
 getyear
 getmonth 
 getday
 
-//Now comes the time override command, has to be run from startup.eee, can only be one line in the code for it to be read by the chip
-// time override command has to be run from the car, have to make a time chip blueprint, these two 
-//following commands wouldn't be able to be used otherwise. Check the timegraph on your plc to pin point a settable date! 
-//I need to craft an adapter for the startup HVD first so I can insert it into the car. Otherwise the following thing wont work.
+//Теперь идет команда переопределения времени, которая должна быть запущена при startup.eee, в коде должна быть только одна строка, чтобы чип мог ее прочитать
+//команда переопределения времени должна быть запущена из машины, нужно создать схему для временной микросхемы, эти две 
+//в противном случае я не смог бы использовать следующие команды. Проверьте график времени на вашем ПЛК, чтобы точно указать установленную дату! 
+//Сначала мне нужно изготовить адаптер для устройства startup HVD, чтобы я мог вставить его в машину. В противном случае следующее не сработает.
 overridedate 122500011200 
-//use setlabel "" on the HVD disk to name the custom time chip!
-//To set a date, mmddyyyyhhmm or -mmddyyyyhhmm for BC
+//используйте setlabel "" на жестком диске, чтобы присвоить имя пользовательской временной шкале!
+//Чтобы задать дату, введите mmddyyyyhhmm или -mmddyyyhhmm для BC

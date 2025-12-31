@@ -1,8 +1,8 @@
-//Some conduit systems, hydraulic or electric or otherwise on Pine Island can be also accessed via injection
-//Inject this code into the hacked port if you have a trap to be overloaded to take out enemies
+//Доступ к некоторым системам трубопроводов, гидравлическим, электрическим или иным на Пайн-Айленде, также можно получить с помощью инъекции
+//Введите этот код во взломанный порт, если у вас есть ловушка, которую нужно перегрузить, чтобы уничтожить врагов
 
 overloadconduit
-//blows the conduit
+//продувает трубопровод
 wait 2
 breakline
 print "end of program"
