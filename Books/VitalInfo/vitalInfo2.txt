@@ -1,7 +1,8 @@
-<ENTRY>
-Keep the vault door shut at any time unless strictly ordered otherwise.
+<ЗАПИСЬ>
+Дверь хранилища должна оставаться закрытой постоянно, за исключением случаев, когда получен прямой и недвусмысленный приказ.
 
 
 
-<END OF LOG>
+<КОНЕЦ ЛОГА>
+
  
