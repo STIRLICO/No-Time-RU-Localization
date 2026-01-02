@@ -1,12 +1,12 @@
-- You will receive an up to date height map as 
-well as a gps location of the car on the map!
-Your car got stuck somewhere?
--Use the grav hook to push the car out
-of the problem!
+-Ты получишь актуальную высотную карту, 
+а также GPS-координаты машины на ней!
+Машина где-то застряла?
+-Используй гравитационный крюк, чтобы 
+вытолкнуть её!
 
-Chapter 2: КПК
-The Personal Log Computer
+Глава 2: КПК
+Карманный Персональный Компьютер
 
-I've built this tool to aid you on your adventures!
-Help you keep track of detail, and not lose yourself
-in time!
+Я создал его, чтобы помогать тебе в приключениях!
+Он поможет отслеживать все детали и не потеряться 
+во времени!
