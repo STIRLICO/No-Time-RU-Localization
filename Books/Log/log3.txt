@@ -1,9 +1,10 @@
---DATA FOR AUTHORIZED PERSONEL ONLY-- 
+--ДАННЫЕ ТОЛЬКО ДЛЯ УПОЛНОМОЧЕННОГО ПЕРСОНАЛА-- 
 
-<ENTRY February 11th 2013>
-Today is a glorious day! This event today will be the gateway to WORLD DOMINATION.
-- The Consul
+<ЗАПИСЬ Февраль 11-го 2013>
+Сегодня великий день! Сегодняшнее событие это прямой путь к МИРОВОМУ ГОСПОДСТВУ.
+- Консул
 
-<ENTRY>
-Ramp up the Nutrient Gray production!
-<NEXT PAGE>
+<ЗАПИСЬ>
+Увеличьте производство Nutrient Gray!
+
+<СЛЕДУЮЩАЯ СТРАНИЦА>
