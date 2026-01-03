@@ -1,11 +1,11 @@
---THIS IS A PRINT FROM ORDER #13--
+--ЭТО РАСПЕЧАТКА ПРИКАЗА #13--
 
-<ENTRY>
-We took out the major stumbling blocks in our endevour. The prisoner is being held in Fort Dun 1940s.
+<ЗАПИСЬ>
+Мы устранили основные препятствия на нашем пути. Заключенный содержится в Форте Дан в 1940-х.
 
-The entire family tree is erased. No one will be able to stop us now!
+Вся родословная стерта. Теперь нас никто не остановит!
 
-A glorious day for sure.
--The Consul
+Несомненно, это великий день.
+-Консул
 
-<NEXT PAGE>
+<СЛЕДУЮЩАЯ СТРАНИЦА>
